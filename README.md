@@ -6,7 +6,7 @@
 
 ## Objective
 
-This project aims to develop a Power BI Dashboard to comprehend employee attrition and explore the factors contributing to turnover, facilitating the development of effective retention strategies. The goal is to enhance retention and strengthen the workforce through actionable insights presented in the dashboard.
+This project aims to analyze employee attrition data to identify major trends impacting HR policies. The analysis includes designing a relational database model using MySQL to store data, performing Exploratory Data Analysis (EDA) using Python, and building an attrition analysis dashboard with Power BI. This project aims to develop a Power BI Dashboard to comprehend employee attrition and explore the factors contributing to turnover, facilitating the development of effective retention strategies. The goal is to enhance retention and strengthen the workforce through actionable insights presented in the dashboard.
 
 ## Dataset
 
