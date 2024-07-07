@@ -12,30 +12,6 @@ This project aims to analyze employee attrition data to identify major trends im
 
 The dataset, sourced from Kaggle, IBM HR Analytics Employee Attrition & Performance, includes details such as employee demographics, job attributes, performance ratings, and attrition status, facilitating analysis and understanding of turnover factors.
 
-## Steps Undertaken
-
-1. **Setting Objectives:**
-   - Clarified scope and objectives, aiming to gain insights into employee attrition patterns.
-
-2. **Data Collection and Exploration:**
-   - Gathered HR attrition dataset from Kaggle.
-   - Analyzed the dataset to gain insights into employee demographics, job attributes, performance ratings, and attrition status. This involved visualizing distributions, correlations, and trends using descriptive statistics and data visualization techniques.
-
-3. **Metric Development:**
-   - Utilized Power BI Desktop and Data Analysis Expressions (DAX) to create key performance indicators (KPIs) such as attrition rate, department-wise turnover, etc.
-
-4. **Dashboard Creation:**
-   - Developed an interactive dashboard in Power BI Desktop to visualize the analysis results. The dashboard includes various visualizations, filters, and slicers to facilitate the exploration and understanding of employee attrition patterns.
-
-
-## Installation/Usage
-
-To use the HR Attrition Analysis Dashboard, follow these steps:
-
-1. **Install Power BI Desktop:** Download and install Power BI Desktop from the official Power BI Download Site.
-2. **Download Dataset:** Download the dataset from the link provided in the Dataset section.
-3. **Clone or Download this Repository:** Clone or download this repository to your local machine.
-4. **Open Dashboard:** Open the dashboard report file (HR-attrition-dashboard.pbix) in Power BI Desktop to access & explore the interactive dashboard's features.
 
 ## Questions
 
