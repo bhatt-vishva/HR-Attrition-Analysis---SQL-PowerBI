@@ -1,7 +1,7 @@
 # HR-Attrition-Analysis-Dashboard
 
 ## Dashboard
-Final Dashboard.png
+
 
 
 ## Objective
