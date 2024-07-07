@@ -1,7 +1,7 @@
 # HR-Attrition-Analysis-Dashboard
 
 ## Dashboard
-
+https://github.com/bhatt-vishva/HR-Attrition-Analysis---SQL-PowerBI/blob/main/Final%20Dashboard.png
 
 
 ## Objective
